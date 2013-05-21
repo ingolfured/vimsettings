@@ -1,9 +1,6 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = http://github.com/tpope/vim-fugitive.git
-[submodule "bundle/snipmate"]
-	path = bundle/snipmate
-	url = https://github.com/msanders/snipmate.vim.git
 [submodule "bundle/surround"]
 	path = bundle/surround
 	url = https://github.com/tpope/vim-surround.git
@@ -13,15 +10,9 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab.git
-[submodule "bundle/minibufexpl"]
-	path = bundle/minibufexpl
-	url = https://github.com/sontek/minibufexpl.vim.git
 [submodule "bundle/command-t"]
 	path = bundle/command-t
 	url = https://github.com/wincent/Command-T.git
-[submodule "pyflakes-pathogen"]
-	path = pyflakes-pathogen
-	url = https://github.com/mitechie/pyflakes-pathogen.git
 [submodule "bundle/ack"]
 	path = bundle/ack
 	url = https://github.com/mileszs/ack.vim.git
@@ -52,3 +43,9 @@
 [submodule "bundle/pyflakes"]
 	path = bundle/pyflakes
 	url = https://github.com/mitechie/pyflakes-pathogen.git
+[submodule "bundle/pythonsyntax"]
+	path = bundle/pythonsyntax
+	url = https://github.com/me-vlad/python-syntax.vim.git
+[submodule "pyflakes-vim"]
+	path = pyflakes-vim
+	url = git://github.com/kevinw/pyflakes-vim.git
